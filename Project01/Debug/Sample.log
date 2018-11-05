@@ -1,0 +1,4 @@
+﻿  sample.cpp
+c:\users\alan\desktop\cs450\project01\sample.cpp(1214): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Alan\Desktop\cs450\Project01\.\Debug\Sample.exe

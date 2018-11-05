@@ -1,0 +1,17 @@
+﻿  sample.cpp
+c:\users\alan\desktop\cs450\project03\sample.cpp(1324): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1400): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1401): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1404): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1405): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1406): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1416): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project03\sample.cpp(1422): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Alan\Desktop\cs450\Project03\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)

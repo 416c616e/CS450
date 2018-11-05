@@ -1,0 +1,13 @@
+﻿  sample.cpp
+c:\users\alan\desktop\cs450\project06\sample.cpp(309): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project06\sample.cpp(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project06\sample.cpp(320): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project06\sample.cpp(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project06\sample.cpp(325): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project06\sample.cpp(328): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project06\sample.cpp(466): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alan\desktop\cs450\project06\sample.cpp(466): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alan\desktop\cs450\project06\sample.cpp(1202): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Alan\Desktop\cs450\Project06\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)

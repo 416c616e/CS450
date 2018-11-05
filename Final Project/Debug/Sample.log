@@ -1,0 +1,16 @@
+﻿  sample.cpp
+c:\users\alan\desktop\cs450\final project\sample.cpp(215): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\alan\desktop\cs450\final project\sample.cpp(215): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\desktop\cs450\final project\sample.cpp(267): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\desktop\cs450\final project\sample.cpp(559): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\desktop\cs450\final project\sample.cpp(560): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\desktop\cs450\final project\sample.cpp(565): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\alan\desktop\cs450\final project\sample.cpp(570): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\alan\desktop\cs450\final project\sample.cpp(613): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\desktop\cs450\final project\sample.cpp(614): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\desktop\cs450\final project\sample.cpp(631): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\desktop\cs450\final project\sample.cpp(644): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\desktop\cs450\final project\sample.cpp(649): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\alan\desktop\cs450\final project\sample.cpp(1332): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Alan\Desktop\cs450\Final Project\.\Debug\Sample.exe

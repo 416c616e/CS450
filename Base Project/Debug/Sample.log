@@ -1,0 +1,5 @@
+﻿  sample.cpp
+y:\cs550\samplefreeglut2015\sample.cpp(1144): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> Y:\CS550\SampleFreeGlut2015\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
